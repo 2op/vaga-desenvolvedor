@@ -44,7 +44,7 @@ Baixe os arquivos e siga os requisitos abaixo para o desenvolvimento!
 ## Requisitos opcionais
 
 1. Utilizar o Google Fonts (https://fonts.google.com), ao invés da pasta "fonts" do projeto;
-2. O framework Bootstrap pode ser anexado ao projeto para auxiliar o desenvolvimento
+2. O framework Bootstrap pode ser anexado ao projeto para auxiliar o desenvolvimento;
 3. Desenvolver a Landing Page de forma responsiva, para se adaptar em diferentes resoluções de telas;
 4. Ao clicar em um item de menu, a página deve rolar até o conteúdo relacionado.
 
