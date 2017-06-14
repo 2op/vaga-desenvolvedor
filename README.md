@@ -36,17 +36,17 @@ Baixe os arquivos e siga os requisitos abaixo para o desenvolvimento!
 
 ## Requisitos obrigatórios
 
-1 - O resultado do projeto desenvolvido deve ser o mais próximo possível da imagem Landing-Page.jpg;
-2 - Não é necessário simular o envio do formulário de contato;
-3 - O projeto deve ser enviado por email na mesma estrutura de pastas.
+1. O resultado do projeto desenvolvido deve ser o mais próximo possível da imagem Landing-Page.jpg;
+2. Não é necessário simular o envio do formulário de contato;
+3. O projeto deve ser enviado por email na mesma estrutura de pastas.
 
 
 ## Requisitos opcionais
 
-1 - Utilizar o Google Fonts (https://fonts.google.com), ao invés da pasta "fonts" do projeto;
-2 - O framework Bootstrap pode ser anexado ao projeto para auxiliar o desenvolvimento
-3 - Desenvolver a Landing Page de forma responsiva, para se adaptar em diferentes resoluções de telas;
-4 - Ao clicar em um item de menu, a página deve rolar até o conteúdo relacionado.
+1. Utilizar o Google Fonts (https://fonts.google.com), ao invés da pasta "fonts" do projeto;
+2. O framework Bootstrap pode ser anexado ao projeto para auxiliar o desenvolvimento
+3. Desenvolver a Landing Page de forma responsiva, para se adaptar em diferentes resoluções de telas;
+4. Ao clicar em um item de menu, a página deve rolar até o conteúdo relacionado.
 
 
 ### Avaliação
